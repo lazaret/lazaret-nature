@@ -1,0 +1,25 @@
+/*
+ * lazaret-nature.css_t
+ * ~~~~~~~~~~~~~~~~~~~~
+ *
+ * Sphinx stylesheet -- lazaret-nature theme.
+ *
+ * :copyright: Copyright 2012 by the Lazaret team, see AUTHORS.
+ * :license: Expat licence (or MIT licence), see LICENSE for details.
+ *
+ */
+
+@import url("nature.css");
+
+/* -- page layout ---------------------------------------------------------- */
+
+div.related {
+    background-color: #000;
+    line-height: 42px;
+    color: #fff;
+    font-size: 1.2em;
+}
+
+div.related a {
+    color: #fff;
+}
